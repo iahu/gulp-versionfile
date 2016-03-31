@@ -2,7 +2,7 @@
 
 **Inspired by [gulp-hash](https://github.com/Dragory/gulp-hash)**
 
-Genere a version file, which contents is hash of source file content.
+Generate a version file, which contents is hash of source file content.
 If you use `SSI` to control file version, you may want a version file like that.
 
 ###Usage
