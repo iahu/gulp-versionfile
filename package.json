@@ -1,0 +1,22 @@
+{
+  "name": "gulp-versionfile",
+  "version": "1.0.0",
+  "description": "generate a version file",
+  "keywords": [
+    "version",
+    "file",
+    "version-file",
+    "cache-control",
+    "gulpplugin"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "through2": "^2.0.1"
+  }
+}
